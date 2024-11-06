@@ -1,14 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
    <meiHead xml:id="m1gy81f7">
       <fileDesc xml:id="f17mncn4">
          <titleStmt xml:id="t73ms4v">
-            <title />
-            <respStmt />
+            <title />Concerto for Two Violins in D minor (movement 3)<titlePart type="subordinate">an electronic transcription</titlePart>
+            <composer>
+               <persName role="creator">Johann Sebastian Bach</persName>
+            </composer>
+            <arranger>
+               <persName role="arranger">Wisdomseeker</persName>
+            </arranger>
+            <respStmt>
+               <persName role="encoder">Lizzie Robertson</persName>
+            </respStmt>
          </titleStmt>
          <pubStmt xml:id="p1tl6psy">
+            <publisher>
+               <corpName role="publisher">Ellison</corpName>
+            </publisher>
             <date isodate="2024-10-10" type="encoding-date">2024-10-10</date>
          </pubStmt>
       </fileDesc>
