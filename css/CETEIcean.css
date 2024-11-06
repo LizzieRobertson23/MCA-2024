@@ -1804,16 +1804,7 @@ tei-xr {
 tei-zone {
   /* Empty Rule Set */
 }
-<!DOCTYPE html>
-<html>
-<style>
-p{
-  text-align: centre;
-  color: blue;
-}
-</style>
-</head>
-<body>
+
 mei-title[type="subordinate"] {
   font-size: 18pt;
   font-variant-caps: small-caps;
@@ -1947,8 +1938,7 @@ mei-filedesc > mei-sourcedesc > mei-source > mei-pubstmt::after {
   content: '\a''\a';
   white-space: pre;
 }
-</body>
-</html>
+
 mei-encodingdesc {
   display: none;
 }
